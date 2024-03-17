@@ -9,3 +9,6 @@ In order to answer the key business questions, I followed the steps of the data 
 
 # Data Source
 The dataset we used to analyze is historical trip data from a bike-share program.  We use the historical data in 2022 (January 2022–December 2022) for the full-year analysis.
+
+
+#GDA
